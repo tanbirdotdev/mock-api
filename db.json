@@ -1,12 +1,14 @@
 {
-    "status": true,
-    "error": false,
-    "data": {
-        "currentStreak": 18,
-        "bestStreak": 26,
-        "todayCompleted": false,
-        "target": 30,
-        "daysRemaining": 12,
-        "rewardCoins": 100
+    "streak": {
+        "status": true,
+        "error": false,
+        "data": {
+            "currentStreak": 18,
+            "bestStreak": 26,
+            "todayCompleted": false,
+            "target": 30,
+            "daysRemaining": 12,
+            "rewardCoins": 100
+        }
     }
 }
