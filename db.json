@@ -3,12 +3,12 @@
         "status": true,
         "error": false,
         "data": {
-            "currentStreak": 18,
-            "bestStreak": 26,
-            "todayCompleted": false,
+            "current_streak": 18,
+            "best_streak": 26,
+            "today_completed": false,
             "target": 30,
-            "daysRemaining": 12,
-            "rewardCoins": 100
+            "days_remaining": 12,
+            "reward_coins": 100
         }
     }
 }
