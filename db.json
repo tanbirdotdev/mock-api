@@ -5,7 +5,7 @@
         "data": {
             "current_streak": 18,
             "best_streak": 26,
-            "today_completed": false,
+            "today_completed": true,
             "target": 30,
             "days_remaining": 12,
             "reward_coins": 100
