@@ -44,5 +44,35 @@
             "has_more_value": false,
             "next_curosr": null
         }
+    },
+    "submissions": {
+        "status": true,
+        "error": false,
+        "data": [
+            {
+                "id": "submission_1",
+                "type": "mission",
+                "type_id": "mission_1",
+                "title": "Har Ghar Balloon Car",
+                "date": "05-08-2026",
+                "submitted_by": "Robert Travis"
+            },
+            {
+                "id": "submission_2",
+                "type": "vision",
+                "type_id": "vision_1",
+                "title": "How to make smart financial decisions",
+                "date": "06-08-2026",
+                "submitted_by": "Robert Travis"
+            },
+            {
+                "id": "submission_2",
+                "type": "mission",
+                "type_id": "mission_3",
+                "title": "Reuse, Reduce, Recycle",
+                "date": "04-08-2026",
+                "submitted_by": "Robert Travis"
+            }
+        ]
     }
 }
