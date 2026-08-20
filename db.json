@@ -37,8 +37,8 @@
         "status": true,
         "error": false,
         "data": {
-            "resource_id": "dd5cdd5b-e1c9-414c-bf1d-4348fe12995d",
-            "link": "https://links.life-lab.org/s/a/dd5cdd5b-e1c9-414c-bf1d-4348fe12995d"
+            "resource_id": "d1f9c669-1244-4717-91ed-4da183b14415",
+            "link": "https://links.life-lab.org/s/a/d1f9c669-1244-4717-91ed-4da183b14415"
         }
     },
     "wa_assignment": {
@@ -46,8 +46,8 @@
         "error": false,
         "data": {
             "assignment_type": "teacher_assigned",
-            "task_type": "mission",
-            "task_id": "dd5cdd5b-e1c9-414c-bf1d-4348fe12995d",
+            "task_type": "vision",
+            "task_id": "d1f9c669-1244-4717-91ed-4da183b14415",
             "due_date": "2026-08-31",
             "can_submit": true,
             "message": "Complete this task"
