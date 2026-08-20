@@ -33,13 +33,6 @@
             "next_curosr": null
         }
     },
-    "create_wa_assignment": {
-        "task_type": "mission",
-        "task_id": "e78f2487-3c3b-440c-b802-91aa7b6838f7",
-        "teacher_profile_id": "9fb5ab6e-3845-45bc-8911-028fef967b3c",
-        "classroom_id": "94430608-a63e-4e1c-8b5f-c9ac135e5fcf",
-        "due_date": "2026-08-31"
-    },
     "wa_assignment_response": {
         "status": true,
         "error": false,
@@ -49,11 +42,15 @@
         }
     },
     "wa_assignment": {
-        "assignment_type": "teacher_assigned",
-        "task_type": "mission",
-        "task_id": "e78f2487-3c3b-440c-b802-91aa7b6838f7",
-        "due_date": "2026-08-31",
-        "can_submit": true,
-        "message": "Complete this task"
+        "status": true,
+        "error": false,
+        "data": {
+            "assignment_type": "teacher_assigned",
+            "task_type": "mission",
+            "task_id": "e78f2487-3c3b-440c-b802-91aa7b6838f7",
+            "due_date": "2026-08-31",
+            "can_submit": true,
+            "message": "Complete this task"
+        }
     }
 }
