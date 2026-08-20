@@ -93,5 +93,13 @@
             "resource_id": "e78f2487-3c3b-440c-b802-91aa7b6838f7",
             "link": "https://links.life-lab.org/s/a/e78f2487-3c3b-440c-b802-91aa7b6838f7"
         }
+    },
+    "wa_assignment": {
+        "assignment_type": "teacher_assigned",
+        "task_type": "mission",
+        "task_id": "e78f2487-3c3b-440c-b802-91aa7b6838f7",
+        "due_date": "2026-08-31",
+        "can_submit": true,
+        "message": "Complete this task"
     }
 }
